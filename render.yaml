@@ -7,4 +7,4 @@ services:
     startCommand: "python media_downloader_bot.py"
     envVars:
       - key: API_TOKEN
-        value: your-telegram-token-here
+        value: 7586487936:AAFd_rL6_F08GSxL7b8mKZTWhNuKVZIpojQ
